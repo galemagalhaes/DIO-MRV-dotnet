@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\glaum\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\glaum\\.nuget\\packages"
+    ]
+  }
+}
